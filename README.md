@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Josué 👋
-
-**Computer Engineering Student · Cybersecurity & AI Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=180&section=header&text=Josué&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%C2%B7%20Cybersecurity%20%26%20AI&descAlignY=60&descSize=18" alt="Header" />
 
 [![TEC](https://img.shields.io/badge/Instituto_Tecnológico_de_Costa_Rica-3rd_Year-003B71?style=flat-square)](https://www.tec.ac.cr)
 [![HTB](https://img.shields.io/badge/Hack_The_Box-Learning-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://www.hackthebox.com)
@@ -13,9 +11,7 @@
 
 ---
 
-## 🇺🇸 English
-
-### About me
+### 👨‍💻 About me
 
 I'm a third-year Computer Engineering student at the **Instituto Tecnológico de Costa Rica (TEC)**. I'm passionate about computer science, artificial intelligence, and offensive security. This profile is dedicated to my **cybersecurity and AI projects**, kept separate from my university coursework.
 
@@ -23,37 +19,53 @@ I'm a third-year Computer Engineering student at the **Instituto Tecnológico de
 
 ### 🎯 Focus areas
 
-- 🔐 Offensive security: learning pentesting fundamentals through hands-on labs
-- 🤖 Artificial intelligence: understanding its foundations and applying AI tools to my workflow
-- 🐧 Linux: building a solid foundation in system administration and the command line
+- 🔐 **Offensive security:** learning pentesting fundamentals through hands-on labs
+- 🤖 **Artificial intelligence:** understanding its foundations and applying AI tools to my workflow
+- 🐧 **Linux:** building a solid foundation in system administration and the command line
 
 ### 🛠️ Tech stack
 
-**Programming languages**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin&theme=dark" alt="Languages" />
+</p>
 
 **Operating systems & security platforms**
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark" alt="Operating systems" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" height="48" alt="Hack The Box" title="Hack The Box" />
+</p>
 
 **AI tools**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT_(Codex)-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" /><br /><sub>Claude</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="44" height="44" alt="Cursor" /><br /><sub>Cursor</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="Antigravity" /><br /><sub>Antigravity</sub></td>
+  </tr>
+</table>
 
 ### 📚 Currently learning
 
 - Linux fundamentals
 - Cybersecurity fundamentals (Hack The Box)
 - Artificial intelligence fundamentals
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+</div>
 
 ### 🚀 Projects
 
@@ -73,7 +85,7 @@ All tools, scripts, and write-ups in this profile are shared **for educational p
 
 ## 🇪🇸 Español
 
-### Sobre mí
+### 👨‍💻 Sobre mí
 
 Soy estudiante de tercer año de Ingeniería en Computación en el **Instituto Tecnológico de Costa Rica (TEC)**. Me apasionan las ciencias de la computación, la inteligencia artificial y la seguridad ofensiva. Este perfil está dedicado a mis **proyectos de ciberseguridad e IA**, separados de los proyectos de la universidad.
 
@@ -81,37 +93,53 @@ Soy estudiante de tercer año de Ingeniería en Computación en el **Instituto T
 
 ### 🎯 Áreas de enfoque
 
-- 🔐 Seguridad ofensiva: aprendiendo los fundamentos del pentesting con laboratorios prácticos
-- 🤖 Inteligencia artificial: entendiendo sus fundamentos y aplicando herramientas de IA en mi flujo de trabajo
-- 🐧 Linux: construyendo una base sólida en administración de sistemas y línea de comandos
+- 🔐 **Seguridad ofensiva:** aprendiendo los fundamentos del pentesting con laboratorios prácticos
+- 🤖 **Inteligencia artificial:** entendiendo sus fundamentos y aplicando herramientas de IA en mi flujo de trabajo
+- 🐧 **Linux:** construyendo una base sólida en administración de sistemas y línea de comandos
 
 ### 🛠️ Stack tecnológico
 
-**Lenguajes de programación**
+**Lenguajes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin&theme=dark" alt="Lenguajes" />
+</p>
 
 **Sistemas operativos y plataformas de seguridad**
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark" alt="Sistemas operativos" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" height="48" alt="Hack The Box" title="Hack The Box" />
+</p>
 
 **Herramientas de IA**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT_(Codex)-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" /><br /><sub>Claude</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="44" height="44" alt="Cursor" /><br /><sub>Cursor</sub></td>
+    <td width="110"><img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="Antigravity" /><br /><sub>Antigravity</sub></td>
+  </tr>
+</table>
 
 ### 📚 Aprendiendo actualmente
 
 - Fundamentos de Linux
 - Fundamentos de ciberseguridad (Hack The Box)
 - Fundamentos de inteligencia artificial
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes principales" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Gráfico de contribuciones" />
+</div>
 
 ### 🚀 Proyectos
 
@@ -131,10 +159,7 @@ Todas las herramientas, scripts y writeups de este perfil se comparten **únicam
 
 <div align="center">
 
-<!-- Optional: enable once you have activity. Replace USERNAME with your GitHub username.
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages" />
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer" alt="Footer" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+views&color=0e75b6&style=flat-square)
 
