@@ -43,7 +43,7 @@ I'm a third-year Computer Engineering student at the **Instituto Tecnológico de
 
 <table>
   <tr align="center">
-    <td width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
+    <td width="110"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" /><br /><sub>Claude</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="44" height="44" alt="Cursor" /><br /><sub>Cursor</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="Antigravity" /><br /><sub>Antigravity</sub></td>
@@ -59,12 +59,12 @@ I'm a third-year Computer Engineering student at the **Instituto Tecnológico de
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosuQuirosSec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuQuirosSec&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=JosuQuirosSec&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosuQuirosSec&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
 </div>
 
 ### 🚀 Projects
@@ -117,7 +117,7 @@ Soy estudiante de tercer año de Ingeniería en Computación en el **Instituto T
 
 <table>
   <tr align="center">
-    <td width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
+    <td width="110"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="44" height="44" alt="ChatGPT" /><br /><sub>ChatGPT<br />(Codex)</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude" /><br /><sub>Claude</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/cursor/ffffff" width="44" height="44" alt="Cursor" /><br /><sub>Cursor</sub></td>
     <td width="110"><img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="Antigravity" /><br /><sub>Antigravity</sub></td>
@@ -133,12 +133,12 @@ Soy estudiante de tercer año de Ingeniería en Computación en el **Instituto T
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes principales" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosuQuirosSec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuQuirosSec&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes principales" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=JosuQuirosSec&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Gráfico de contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosuQuirosSec&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Gráfico de contribuciones" />
 </div>
 
 ### 🚀 Proyectos
@@ -156,6 +156,14 @@ Acabo de comenzar este camino. Aquí publicaré proyectos, writeups de CTFs y no
 Todas las herramientas, scripts y writeups de este perfil se comparten **únicamente con fines educativos**. Solo deben usarse en **entornos autorizados** (laboratorios propios, plataformas de CTF o sistemas con permiso explícito por escrito). No apoyo ni me hago responsable de ningún uso ilegal o poco ético.
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer" alt="Footer" />
+
+![Profile views](https://komarev.com/ghpvc/?username=JosuQuirosSec&label=Profile+views&color=0e75b6&style=flat-square)
+
+</div>
 
 <div align="center">
 
